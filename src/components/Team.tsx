@@ -24,7 +24,7 @@ interface SociaNetworkslProps {
 const teamList: TeamProps[] = [
   {
     imageUrl: "https://i.pravatar.cc/150?img=35",
-    name: "Emma Smith",
+    name: "Sofia Navarro",
     position: "Product Manager",
     socialNetworks: [
       {
@@ -43,7 +43,7 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=60",
-    name: "John Doe",
+    name: "Marcus Webb",
     position: "Tech Lead",
     socialNetworks: [
       {
@@ -62,7 +62,7 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=36",
-    name: "Ashley Ross",
+    name: "Priya Iyer",
     position: "Frontend Developer",
     socialNetworks: [
       {
@@ -78,7 +78,7 @@ const teamList: TeamProps[] = [
   },
   {
     imageUrl: "https://i.pravatar.cc/150?img=17",
-    name: "Bruce Rogers",
+    name: "Daniel Osei",
     position: "Backend Developer",
     socialNetworks: [
       {
