@@ -14,32 +14,32 @@ interface FAQProps {
 const FAQList: FAQProps[] = [
   {
     question: "Is this template free?",
-    answer: "Yes. It is a free ChadcnUI template.",
+    answer:
+      "Yes, completely free. Clone the repo, customize it however you like, and ship it — no license fees, no attribution required beyond keeping the MIT license file.",
     value: "item-1",
   },
   {
-    question: "Lorem ipsum dolor sit amet consectetur adipisicing elit?",
+    question: "Can I use this for a commercial project?",
     answer:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam? Consectetur sapiente iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
+      "Absolutely. The template is released under the MIT license, which allows personal and commercial use, modification, and redistribution.",
     value: "item-2",
   },
   {
-    question:
-      "Lorem ipsum dolor sit amet  Consectetur natus dolores minus quibusdam?",
+    question: "What stack does this template use?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore qui nostrum reiciendis veritatis necessitatibus maxime quis ipsa vitae cumque quo?",
+      "React, TypeScript, Vite, Tailwind CSS, and shadcn/ui. All open-source, no paid dependencies.",
     value: "item-3",
   },
   {
-    question: "Lorem ipsum dolor sit amet, consectetur adipisicing elit?",
-    answer: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    question: "How do I customize the design?",
+    answer:
+      "All colors, fonts, and spacing are controlled via CSS variables in src/App.css. Swap the values there and every component updates automatically.",
     value: "item-4",
   },
   {
-    question:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur natus?",
+    question: "Does it support dark mode?",
     answer:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam? Consectetur sapiente iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
+      "Yes. Light and dark themes are built in and toggled via the button in the navbar. Both themes use the Airbnb-inspired color palette we applied at WAMEUP.",
     value: "item-5",
   },
 ];
