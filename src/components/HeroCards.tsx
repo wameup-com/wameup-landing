@@ -44,7 +44,7 @@ export const HeroCards = () => {
             alt="user avatar"
             className="absolute grayscale-[0%] -top-12 rounded-full w-24 h-24 aspect-square object-cover"
           />
-          <CardTitle className="text-center">Leo Miranda</CardTitle>
+          <CardTitle className="text-center">Alex Rivera</CardTitle>
           <CardDescription className="font-normal text-primary">
             Frontend Developer
           </CardDescription>
@@ -61,8 +61,7 @@ export const HeroCards = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="https://github.com/leoMirandaa"
-              target="_blank"
+              href="/"
               className={buttonVariants({
                 variant: "ghost",
                 size: "sm",
@@ -73,8 +72,7 @@ export const HeroCards = () => {
             </a>
             <a
               rel="noreferrer noopener"
-              href="https://twitter.com/leo_mirand4"
-              target="_blank"
+              href="/"
               className={buttonVariants({
                 variant: "ghost",
                 size: "sm",
@@ -94,8 +92,7 @@ export const HeroCards = () => {
 
             <a
               rel="noreferrer noopener"
-              href="https://www.linkedin.com/in/leopoldo-miranda/"
-              target="_blank"
+              href="/"
               className={buttonVariants({
                 variant: "ghost",
                 size: "sm",

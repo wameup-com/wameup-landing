@@ -29,15 +29,15 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "/",
       },
       {
         name: "Facebook",
-        url: "https://www.facebook.com/",
+        url: "/",
       },
       {
         name: "Instagram",
-        url: "https://www.instagram.com/",
+        url: "/",
       },
     ],
   },
@@ -48,15 +48,15 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "/",
       },
       {
         name: "Facebook",
-        url: "https://www.facebook.com/",
+        url: "/",
       },
       {
         name: "Instagram",
-        url: "https://www.instagram.com/",
+        url: "/",
       },
     ],
   },
@@ -67,12 +67,12 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "/",
       },
 
       {
         name: "Instagram",
-        url: "https://www.instagram.com/",
+        url: "/",
       },
     ],
   },
@@ -83,11 +83,11 @@ const teamList: TeamProps[] = [
     socialNetworks: [
       {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/leopoldo-miranda/",
+        url: "/",
       },
       {
         name: "Facebook",
-        url: "https://www.facebook.com/",
+        url: "/",
       },
     ],
   },

@@ -22,7 +22,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Github
@@ -32,7 +32,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Twitter
@@ -42,7 +42,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Dribbble
@@ -55,7 +55,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Web
@@ -65,7 +65,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Mobile
@@ -75,7 +75,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Desktop
@@ -88,7 +88,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Features
@@ -98,7 +98,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Pricing
@@ -108,7 +108,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               FAQ
@@ -121,7 +121,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Youtube
@@ -131,7 +131,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Discord
@@ -141,7 +141,7 @@ export const Footer = () => {
           <div>
             <a
               rel="noreferrer noopener"
-              href="#"
+              href="/"
               className="opacity-60 hover:opacity-100"
             >
               Twitch
