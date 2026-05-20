@@ -47,4 +47,4 @@ npm run build
 
 ## License
 
-MIT — based on [shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) by Leopoldo Miranda.
+MIT
